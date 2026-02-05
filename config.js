@@ -156,7 +156,7 @@ const config = {
     "repoName": "Open-House-685",
     "crmLeadParsingEmail": "",
     "tag": "Open House 3 Ambleside Ave",
-    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/KxSrsX5ZH2ZttFjyt9hW/webhook-trigger/723v7Nh8JC60wCn3aRmV",
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/XJJFJP9sLnGUcLF1yfop/webhook-trigger/KtDQMt05OO9r20MoofxK",
     "sgApiKey": "api_651d5cdad825548a1a6682a190caf3fd"
   }
 };
