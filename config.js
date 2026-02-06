@@ -154,7 +154,7 @@ const config = {
   "deploymentInfo": {
     "repoId": "1150168931",
     "repoName": "Open-House-685",
-    "crmLeadParsingEmail": "",
+    "crmLeadParsingEmail": "shar.banifatemi@followupboss.me",
     "tag": "Open House 3 Ambleside Ave",
     "netlifyUrl": "https://services.leadconnectorhq.com/hooks/XJJFJP9sLnGUcLF1yfop/webhook-trigger/KtDQMt05OO9r20MoofxK",
     "sgApiKey": "api_651d5cdad825548a1a6682a190caf3fd"
